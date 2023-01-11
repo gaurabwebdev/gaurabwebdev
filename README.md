@@ -9,7 +9,7 @@ Now I am exploring JavaScript broadly.
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on my demo projects 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript | React.Js | MongoDB | Firebase
 - 🤔 I’m looking for help with coding 
 - 📫 How to reach me: @GrBose | gaurabbose40@gmail.com 
 
