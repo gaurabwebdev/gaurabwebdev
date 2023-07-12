@@ -9,7 +9,7 @@ It's been more than one year in this field for me now but I am still exploring &
 Skills: HTML, CSS, JavaScript, jQuery, React.js, Daisy UI, React BootStrap, Express.js, Node, MongoDB, Firebase, Domain & Hosting, Netlify, Vercel, npm, etc.
 
 - I’m currently working on my personal projects and looking forward to collaborating on professional projects
-- I love to code and also debug that.
+- I love to code & debug both.
 - Always feel happy to participate in problem-solving tasks
 - How to reach me: @GrBose | gaurabbose04@gmail.com 
 
