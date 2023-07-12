@@ -2,15 +2,15 @@
 ### Hi there 👋, My name is Gaurab Bose
 #### I am a Front End Developer
 
-I am a Front End Developer with MERN Stack Skills.
+With MERN Stack Skills.
 
 It's been more than one year in this field for me now but I am still exploring & learning new technologies.
 
 Skills: HTML, CSS, JavaScript, jQuery, React.js, Daisy UI, React BootStrap, Express.js, Node, MongoDB, Firebase, Domain & Hosting, Netlify, Vercel, npm etc.
 
-- 🔭 I’m currently working on my demo projects 
-- 🌱 I’m currently learning JavaScript | React.Js | MongoDB | Firebase
-- 🤔 I’m looking for help with coding 
+- 🔭 I’m currently working on my personal projects and looking forward to collaborating on professional projects
+- 🌱 I love to code and also debug that.
+- 🤔 Always feel happy to participate in problem-solving tasks
 - 📫 How to reach me: @GrBose | gaurabbose04@gmail.com 
 
 
