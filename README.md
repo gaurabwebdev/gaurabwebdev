@@ -2,11 +2,11 @@
 ### Hi there 👋, My name is Gaurab Bose
 #### I am a Front End Developer
 
-I have learnt already HTML5, CSS3, Bootstrap, JavaScript (basics), JQuery, Dev Tools, Debugging, Photoshop & Illustrator.
+I am a Front End Developer with MERN Stack Skills.
 
-Now I am exploring JavaScript broadly.
+It's been more than one year in this field for me now but I am still exploring & learning new technologies.
 
-Skills: JS / HTML / CSS
+Skills: HTML, CSS, JavaScript, jQuery, React.js, Daisy UI, React BootStrap, Express.js, Node, MongoDB, Firebase, Domain & Hosting, Netlify, Vercel, npm etc.
 
 - 🔭 I’m currently working on my demo projects 
 - 🌱 I’m currently learning JavaScript | React.Js | MongoDB | Firebase
