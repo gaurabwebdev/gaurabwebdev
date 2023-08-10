@@ -2,8 +2,6 @@
 ### Hi there 👋, My name is Gaurab Bose
 #### I am a Web Developer - Specialized At Front End Development
 
-With MERN Stack Skills.
-
 My Skills: 
 
 - Front End Skills: HTML5, CSS3, Tailwind CSS, Bootstrap, Daisy UI, JavaScript, ES 6, React JS, React Router, Rest API, TanStack Query, React Hook, React BootStrap
