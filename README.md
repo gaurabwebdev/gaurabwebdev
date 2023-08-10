@@ -9,13 +9,13 @@
 
   * I am a certified Web Developer specializing in Front End Development. I have more than one and a half years of experience in the web development field.
 
-### 🛠 My Skills 
+### ⚡ My Skills 
   * Front End Skills - HTML5, CSS3, Tailwind CSS, Bootstrap, Daisy UI, JavaScript, ES 6, React JS, React Router, Rest API, TanStack Query, React Hook, React BootStrap
   * I love to code & debug both.
   * Back End Skills - Express JS, Node JS, JWT, Axios, MongoDB, Firebase
   * I have also a comfortable zone at WordPress Development with the skills like - WordPress Theme Customization, Elementor PRO, WooCommerce, WP Migration, Speed Optimization, etc.
 
-### My Working Tools: 
+### 🛠 My Working Tools: 
 
   * VITE, VS Code Editor, Git, GitHub, Dev Tools, Figma, Photoshop, Domain & Hosting, Netlify, Surge, Vercel
 
