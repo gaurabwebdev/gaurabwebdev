@@ -1,4 +1,9 @@
 
+
+![Logo](https://i.ibb.co/NsgV1SC/logo.png)
+
+
+
 ## Hi there 👋, My name is Gaurab Bose
 ### 🚀 About Me
 
@@ -14,8 +19,9 @@
 
   * VITE, VS Code Editor, Git, GitHub, Dev Tools, Figma, Photoshop, Domain & Hosting, Netlify, Surge, Vercel
 
-I always love to explore, introduce & update myself by adapting new technologies and skills. That is why I prefer to listen first and understand all the requirements of a given task so that I can work and cooperate with the that professionally to get the best output. 
+I always love to explore, introduce & update myself by adopting new technologies and skills. That is why I prefer to listen first and understand all the requirements of a given task so that I can work and execute professionally to get the best output. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gaurabwebdev/)  
+
+
 
